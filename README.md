@@ -32,9 +32,9 @@ Esta é uma coleção de scripts de automação para sistemas Linux, projetados 
 3. **Execute o Script**:
    - Como usuário root ou via `sudo` (recomendado para scripts que alteram o sistema):
      ```bash
-     sudo ./scripts/linux/NOME_DO_SCRIPT.sh [ARGUMENTOS_OPCIONAIS]
+     sudo ./scripts/linux/NOME_DO_SCRIPT.sh
      ```
-   - Exemplo: Para instalar o Docker Desktop:
+   - Exemplo: Para verificar e remover o Docker Desktop:
      ```bash
      sudo ./scripts/linux/DockerDesktop.sh
      ```
