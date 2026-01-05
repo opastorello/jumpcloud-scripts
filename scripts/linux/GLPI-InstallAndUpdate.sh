@@ -23,7 +23,7 @@
 #   - O agente será vinculado automaticamente ao servidor especificado.
 #
 
-GLPI_SERVER="https://glpi.site.com/"
+GLPI_SERVER="https://glpi.site.com.br/"
 TMP_INSTALLER="/tmp/glpi-agent-installer.pl"
 
 cleanup() {
