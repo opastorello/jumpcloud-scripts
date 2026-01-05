@@ -26,7 +26,7 @@
 #
 
 # URL do wallpaper padrão
-WALLPAPER_URL="https://url.com/FundoTelaNovaMarca.png"
+WALLPAPER_URL="https://site.com.br/FundoTelaNovaMarca.png"
 
 # Detecta o usuário GNOME ativo (aquele com gnome-shell rodando)
 detect_active_gnome_user() {

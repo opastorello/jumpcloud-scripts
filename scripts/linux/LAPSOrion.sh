@@ -15,7 +15,7 @@ ADMIN_PASSWORD="123456"   # senha inicial só para criação
 
 # Configurações do Vault no Orion
 TOKEN_POST="TokenSeguro123"
-API_URL="https://utilitarios.site.com/apiVault.php"
+API_URL="https://site.com.br/api/vault/update_password.php"
 
 # Identificação da máquina
 HOST=$(hostname)
