@@ -27,7 +27,7 @@
 TARGET_VERSION="7.4.4.1796"
 
 # URL do pacote FortiClient
-URL="https://site.com.com/FortiClientEMS/FortiClient_7.4.4.deb"
+URL="https://site.com.br/FortiClientEMS/FortiClient_7.4.4.deb"
 
 # Caminho do arquivo temporário
 ARQUIVO="/tmp/FortiClient.deb"
